@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/jingyugao/rowserrcheck/passes/rowserr"
+	"github.com/alex-sim-dh/rowserrcheck/passes/rowserr"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 
